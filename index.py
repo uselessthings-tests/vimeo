@@ -1,4 +1,3 @@
-from nturl2path import url2pathname
 from bs4 import BeautifulSoup
 import requests
 from flask import request
